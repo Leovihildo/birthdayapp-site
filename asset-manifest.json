@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/birthdayapp-site/static/css/main.389d9561.css",
+    "main.js": "/birthdayapp-site/static/js/main.ff228250.js",
+    "index.html": "/birthdayapp-site/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.389d9561.css",
+    "static/js/main.ff228250.js"
+  ]
+}
