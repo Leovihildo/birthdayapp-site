@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/birthdayapp-site/static/css/main.c8655906.css",
-    "main.js": "/birthdayapp-site/static/js/main.20bc0b7b.js",
+    "main.js": "/birthdayapp-site/static/js/main.103337e8.js",
     "index.html": "/birthdayapp-site/index.html",
     "main.c8655906.css.map": "/birthdayapp-site/static/css/main.c8655906.css.map",
-    "main.20bc0b7b.js.map": "/birthdayapp-site/static/js/main.20bc0b7b.js.map"
+    "main.103337e8.js.map": "/birthdayapp-site/static/js/main.103337e8.js.map"
   },
   "entrypoints": [
     "static/css/main.c8655906.css",
-    "static/js/main.20bc0b7b.js"
+    "static/js/main.103337e8.js"
   ]
 }
